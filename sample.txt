@@ -1,0 +1,3 @@
+my new devops txt file
+
+new file for checking git status
